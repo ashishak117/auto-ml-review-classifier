@@ -1,0 +1,369 @@
+text,label
+"The food was amazing and service was great!",positive
+"Terrible experience. The waiter was rude.",negative
+"Pretty decent place for a quick bite.",positive
+"Food was cold and tasteless.",negative
+"Absolutely loved the ambiance and the pasta was divine!",positive
+"Worst restaurant I've ever been to. Never coming back.",negative
+"The staff were friendly and attentive throughout our meal.",positive
+"Overpriced and underwhelming. Not worth the money.",negative
+"Great spot for families. Kids menu was excellent.",positive
+"Had to wait over an hour for our food. Unacceptable.",negative
+"The desserts were to die for! Highly recommend the cheesecake.",positive
+"Dirty tables and slow service. Very disappointed.",negative
+"Cozy atmosphere and delicious appetizers.",positive
+"The meat was overcooked and dry.",negative
+"Best Italian food in town! Will definitely return.",positive
+"Manager was unhelpful when we complained about our order.",negative
+"Reasonably priced with generous portions.",positive
+"Found a hair in my soup. Disgusting.",negative
+"The wine selection was impressive and well curated.",positive
+"Noisy environment made it hard to have a conversation.",negative
+"Quick service and tasty sandwiches. Perfect for lunch.",positive
+"Stale bread and watery soup. Very disappointing.",negative
+"The chef came out to greet us. Such a nice touch!",positive
+"Reservation was lost and we had to wait 30 minutes.",negative
+"Fresh ingredients and beautifully presented dishes.",positive
+"Bland flavors and small portions for the price.",negative
+"Excellent vegetarian options available.",positive
+"Rude hostess made us feel unwelcome from the start.",negative
+"The seafood was incredibly fresh and flavorful.",positive
+"Kitchen clearly doesn't care about quality control.",negative
+"Good value for money. Would recommend to friends.",positive
+"Cramped seating and uncomfortable chairs.",negative
+"The brunch menu is fantastic! Loved the eggs benedict.",positive
+"Coffee was cold and tasted burnt.",negative
+"Impeccable service from start to finish.",positive
+"Order was completely wrong and they refused to fix it.",negative
+"Nice outdoor seating area with great views.",positive
+"Flies buzzing around our table. Health hazard.",negative
+"The curry had the perfect level of spice!",positive
+"Waited 20 minutes just to get menus.",negative
+"Clean restrooms and well-maintained facility.",positive
+"Prices have gone up but quality has gone down.",negative
+"Their signature dish did not disappoint!",positive
+"Kitchen ran out of half the menu items.",negative
+"Romantic setting perfect for date night.",positive
+"Food arrived lukewarm at best.",negative
+"The bartender made amazing cocktails.",positive
+"Clearly understaffed. Service was chaotic.",negative
+"Kids ate everything on their plates. That says it all!",positive
+"Felt rushed throughout the entire meal.",negative
+"Generous happy hour deals and friendly bar staff.",positive
+"The salad had wilted, brown lettuce.",negative
+"Outstanding presentation and exceptional taste.",positive
+"The fish smelled off. Sent it back immediately.",negative
+"Warm welcome from the hostess. Great first impression!",positive
+"Bill had wrong items. Took forever to correct.",negative
+"The steak was cooked to perfection!",positive
+"Way too salty. Could barely eat it.",negative
+"Live music added to the wonderful atmosphere.",positive
+"Parking was a nightmare. Too stressful.",negative
+"The lobster bisque was heavenly.",positive
+"Server forgot our order twice.",negative
+"Great gluten-free options for my dietary needs.",positive
+"Moldy cheese on the pizza. Absolutely gross.",negative
+"The sushi was fresh and expertly prepared.",positive
+"Charged us for items we never received.",negative
+"Lovely decor and comfortable seating.",positive
+"Roaches crawling on the wall. Left immediately.",negative
+"Best burger I've had in years!",positive
+"Ice in the drinks tasted like dirty freezer.",negative
+"The tapas were perfect for sharing.",positive
+"Bathroom was out of order. Very inconvenient.",negative
+"Sommelier gave excellent wine recommendations.",positive
+"Utensils were dirty and had food residue.",negative
+"The jazz brunch is a must-try experience!",positive
+"Air conditioning broken on a hot day. Miserable.",negative
+"Vegan options were creative and delicious.",positive
+"Chicken was raw in the middle. Dangerous.",negative
+"Staff remembered us from our last visit. Impressive!",positive
+"They added automatic gratuity without warning.",negative
+"The tiramisu was authentic and delicious.",positive
+"Table was sticky and hadn't been cleaned.",negative
+"Great beer selection on tap.",positive
+"Music was ear-splittingly loud.",negative
+"The dim sum service was efficient and tasty.",positive
+"Shrimp tasted spoiled. Got food poisoning.",negative
+"Perfect spot for business lunches.",positive
+"Server had visible attitude problem.",negative
+"The pad thai had amazing depth of flavor.",positive
+"Portion sizes were laughably small.",negative
+"Beautiful waterfront location at sunset.",positive
+"Took our plates before everyone was done eating.",negative
+"The BBQ ribs fell off the bone perfectly.",positive
+"Flies everywhere. Completely unhygienic.",negative
+"Impressive craft cocktail menu.",positive
+"Waited 45 minutes past our reservation time.",negative
+"The fondue experience was fun and interactive.",positive
+"Everything tasted like it came from frozen packages.",negative
+"Knowledgeable staff about allergens and ingredients.",positive
+"Server spilled wine on my jacket. No apology.",negative
+"The prime rib special was worth every penny.",positive
+"Credit card machine conveniently broken. Cash only scam.",negative
+"Delightful afternoon tea service.",positive
+"Found plastic wrap baked into the bread.",negative
+"The Greek salad was fresh and authentic.",positive
+"Manager was defensive when we complained.",negative
+"Amazing Sunday roast with all the trimmings.",positive
+"Menu prices didn't match what we were charged.",negative
+"The oysters were briny and delicious.",positive
+"Kitchen smoke set off fire alarm. Total chaos.",negative
+"Great selection of local craft beers.",positive
+"Server was texting while taking our order.",negative
+"The creme brulee had the perfect caramelized top.",positive
+"Bathroom had no soap or paper towels.",negative
+"Fantastic farm-to-table concept executed well.",positive
+"Clearly reheated leftovers. Not fresh.",negative
+"The pho had rich, complex broth.",positive
+"Hostess seated us right next to the kitchen door.",negative
+"Taco Tuesday deals are incredible value.",positive
+"Menu looked nothing like the photos.",negative
+"The focaccia bread was warm and aromatic.",positive
+"Server brought wrong drinks three times.",negative
+"Best poutine outside of Canada!",positive
+"Bacon was burnt to a crisp.",negative
+"The omakase experience was unforgettable.",positive
+"They forgot we were there for 30 minutes.",negative
+"Wonderful kids play area kept children entertained.",positive
+"Mandatory valet parking was overpriced.",negative
+"The ramen had perfect noodle texture.",positive
+"Fruit flies hovering over the fruit display.",negative
+"Staff went above and beyond for my birthday.",positive
+"Loud argument between staff in front of customers.",negative
+"The Spanish paella was authentic and flavorful.",positive
+"Clearly days old fish. Smelled terrible.",negative
+"Excellent wine pairing with each course.",positive
+"Server rolled eyes when we asked questions.",negative
+"The chocolate lava cake was orgasmic.",positive
+"Plates were chipped and glasses were cloudy.",negative
+"Perfect place for watching the game.",positive
+"They ran our credit card wrong. Multiple charges.",negative
+"The pork belly bao buns were incredible.",positive
+"Salad bar looked picked over and sad.",negative
+"Attentive service without being intrusive.",positive
+"Forced to tip on top of service charge.",negative
+"The French onion soup was rich and cheesy.",positive
+"Coffee pot obviously hadn't been cleaned in days.",negative
+"Great outdoor patio for summer dining.",positive
+"Advertised items not actually available.",negative
+"The duck confit was tender and flavorful.",positive
+"Server had bad body odor. Off-putting.",negative
+"Impressive dessert cart with many options.",positive
+"Bait and switch with happy hour specials.",negative
+"The gnocchi melted in my mouth.",positive
+"Manager yelled at employees in dining area.",negative
+"Cozy fireplace created perfect winter ambiance.",positive
+"Tonic water was flat in my gin and tonic.",negative
+"Best huevos rancheros for weekend brunch.",positive
+"AC vents dripping condensation on our table.",negative
+"The samosa appetizers were crispy and spiced perfectly.",positive
+"Server pressured us to order more expensive items.",negative
+"Great mocktail options for non-drinkers.",positive
+"Bread basket had clearly been sitting out all day.",negative
+"The seafood tower was impressive and fresh.",positive
+"They seated us even though kitchen was closing.",negative
+"Wonderful local artwork on the walls.",positive
+"Someone smoking right outside entrance. Gross.",negative
+"The lasagna was layered to perfection.",positive
+"Charged us for bread we never ordered.",negative
+"Pet-friendly patio is great for dog owners.",positive
+"Loud birthday singing every 5 minutes. Annoying.",negative
+"The chimichurri sauce elevated the entire dish.",positive
+"Bathroom stall locks were broken.",negative
+"Extensive menu with something for everyone.",positive
+"They mixed up our order with another table.",negative
+"The cannoli filling was sweet and creamy.",positive
+"Mussels had clearly gone bad. Refused to eat.",negative
+"Live cooking stations were entertaining.",positive
+"Server made inappropriate comments.",negative
+"The margherita pizza had the perfect char.",positive
+"Water glasses never refilled during entire meal.",negative
+"Thoughtful kid-friendly activities provided.",positive
+"Exit door blocked by storage boxes. Fire hazard.",negative
+"The scallops were seared beautifully.",positive
+"Found a bandaid in the coleslaw.",negative
+"Great senior discount program.",positive
+"They pressured us to leave for next reservation.",negative
+"The bruschetta had ripe, juicy tomatoes.",positive
+"Carpets were stained and smelled musty.",negative
+"Bottomless mimosas made brunch special.",positive
+"Server clearly drunk or on something.",negative
+"The cioppino was loaded with seafood.",positive
+"Fruit garnish on dessert was moldy.",negative
+"Wonderful chef's table experience.",positive
+"Heard rats in the walls. Absolutely disgusting.",negative
+"The falafel was crispy outside, fluffy inside.",positive
+"Wine tasted corked. Server insisted it was fine.",negative
+"Beautiful garden setting for outdoor dining.",positive
+"Kitchen forgot our appetizer completely.",negative
+"The crab cakes had generous chunks of crab.",positive
+"Smoothie was mostly ice. Total ripoff.",negative
+"Jazz pianist added wonderful ambiance.",positive
+"Dog feces on the patio. Not cleaned up.",negative
+"The bibimbap came in a hot stone bowl perfectly.",positive
+"Server disappeared after bringing food.",negative
+"Great local sourcing of ingredients.",positive
+"Frozen vegetables in an expensive entree.",negative
+"The churros were crispy with perfect cinnamon sugar.",positive
+"Bouncer at entrance was rude and aggressive.",negative
+"Wonderful prix fixe menu option.",positive
+"They tried to charge us twice for same meal.",negative
+"The mole sauce was complex and authentic.",positive
+"Entire party got sick afterwards. Food poisoning.",negative
+"Staff handled my food allergy with care.",positive
+"Coat check lost my expensive jacket.",negative
+"The gelato was creamy Italian perfection.",positive
+"Server spilled soup on my child.",negative
+"Great rewards program for regulars.",positive
+"Online menu prices completely different.",negative
+"The shakshuka had perfectly runny eggs.",positive
+"No changing table in bathroom for babies.",negative
+"Wonderful seasonal menu rotation.",positive
+"They added items we didn't order to bill.",negative
+"The beignets were light and powdery.",positive
+"Waited an hour just for the check.",negative
+"Perfect temperature control on the steaks.",positive
+"Health inspection grade was C. Should have left.",negative
+"The satay had delicious peanut sauce.",positive
+"Ketchup bottle was crusty and gross.",negative
+"Accessible entrance and facilities for wheelchairs.",positive
+"Server interrupted our conversation multiple times.",negative
+"The carbonara was creamy without being heavy.",positive
+"Fruit juice was clearly from concentrate. Cheap.",negative
+"Great private dining room for parties.",positive
+"Tablecloth had visible stains.",negative
+"The tagine had tender, fall-apart lamb.",positive
+"Server argued with us about the bill.",negative
+"Wonderful children's entertainment on weekends.",positive
+"Grease puddle under our table. Slippery.",negative
+"The baklava was sweet, nutty perfection.",positive
+"They tried to serve us someone else's leftovers.",negative
+"Amazing rooftop views of the city.",positive
+"Freezing cold AC made dining uncomfortable.",negative
+"The jerk chicken had perfect spice balance.",positive
+"Kitchen was visible and looked filthy.",negative
+"Wonderful cooking classes offered monthly.",positive
+"Menu had no prices. Felt like a trap.",negative
+"The schnitzel was crispy and golden.",positive
+"Server had extremely long fake nails. Unsanitary.",negative
+"Great support of local farmers and producers.",positive
+"Smoke detector hanging by wires.",negative
+"The tres leches cake was moist and delicious.",positive
+"Bar was out of most liquors listed.",negative
+"Perfect lighting for a romantic dinner.",positive
+"Cook was vaping in the kitchen area.",negative
+"The empanadas were flaky and flavorful.",positive
+"Credit card skimmer found on payment device.",negative
+"Wonderful community board with local events.",positive
+"Server pressured elderly parents to tip more.",negative
+"The quiche had buttery, flaky crust.",positive
+"Ice machine broken. Warm drinks only.",negative
+"Great accommodation of last-minute reservations.",positive
+"They seated smokers right next to us.",negative
+"The pavlova was light and perfectly sweet.",positive
+"Dishes still had lipstick marks from previous diners.",negative
+"Wonderful farm tours offered to guests.",positive
+"Server made racist comments. Appalling.",negative
+"The calzone was stuffed with quality ingredients.",positive
+"Fruit punch tasted like dish soap.",negative
+"Excellent sound system for live music.",positive
+"Weeds growing through patio deck boards.",negative
+"The waffles were crispy with great toppings.",positive
+"They refused to split the check. Very inconvenient.",negative
+"Beautiful seasonal decorations throughout.",positive
+"Dessert menu items not available. False advertising.",negative
+"The tikka masala had perfect spice level.",positive
+"Floor was so sticky my shoes made noise.",negative
+"Wonderful local beer tasting flights.",positive
+"Manager was intoxicated and inappropriate.",negative
+"The profiteroles were elegant and delicious.",positive
+"Bathroom mirror completely shattered.",negative
+"Great support of dietary restrictions.",positive
+"They closed early without warning.",negative
+"The chicken parm was generous and tasty.",positive
+"Mold visible on ceiling tiles above table.",negative
+"Excellent farm-fresh egg options.",positive
+"Server kept touching face then our food.",negative
+"The key lime pie was tart and refreshing.",positive
+"Sewage smell from bathroom permeated dining area.",negative
+"Wonderful staff training program shows.",positive
+"Host argued with customers in front of everyone.",negative
+"The ceviche was fresh and zesty.",positive
+"Found plastic in the mashed potatoes.",negative
+"Great collection of board games available.",positive
+"They tried to add phantom charges to bill.",negative
+"The spanakopita had flaky phyllo layers.",positive
+"Server coughed directly over our food.",negative
+"Wonderful terrace with herb garden.",positive
+"Mice running along the baseboards.",negative
+"The moussaka had perfect layering.",positive
+"Extremely rude when we used a coupon.",negative
+"Perfect spot for anniversary celebrations.",positive
+"They served obviously expired dairy products.",negative
+"The lobster roll was packed with meat.",positive
+"Staff fighting loudly in back area.",negative
+"Great selection of non-alcoholic beverages.",positive
+"Mandatory coat check was money grab.",negative
+"The pozole had rich, authentic flavor.",positive
+"Credit card reader looked tampered with.",negative
+"Wonderful support of sustainability practices.",positive
+"Server made transphobic comments.",negative
+"The apple strudel was warm and comforting.",positive
+"Cutlery drawer left open with flies around it.",negative
+"Excellent braille menus available.",positive
+"They discriminated against our service dog.",negative
+"The risotto was creamy with perfect bite.",positive
+"Grease trap overflow smell was nauseating.",negative
+"Great silent disco brunch concept.",positive
+"Server kept trying to take unfinished plates.",negative
+"The bananas foster was flambeed tableside perfectly.",positive
+"Kitchen staff not wearing gloves or hairnets.",negative
+"Wonderful community involvement and charity work.",positive
+"Overheard staff badmouthing customers.",negative
+"The duck breast was cooked to rosy perfection.",positive
+"Bar fruit garnishes looked weeks old.",negative
+"Perfect execution of classic dishes.",positive
+"They refused service based on appearance.",negative
+"The beef wellington had flaky pastry and tender meat.",positive
+"Paper towel dispenser empty in all bathrooms.",negative
+"Wonderful seasonal outdoor igloos in winter.",positive
+"Server made sexist remarks.",negative
+"The panna cotta had silky smooth texture.",positive
+"Garbage bins overflowing onto dining patio.",negative
+"Great live jazz trio on Friday nights.",positive
+"They added surprise service fee at end.",negative
+"The chicken tikka was tender and flavorful.",positive
+"Dead cockroach on windowsill.",negative
+"Excellent wine education events hosted.",positive
+"Server had visible open wound on hand.",negative
+"The chocolate souffle rose perfectly.",positive
+"They refused to honor reservation made months ago.",negative
+"Perfect date night atmosphere and service.",positive
+"Kitchen grease fire during our meal. Evacuated.",negative
+"The beef bourguignon was rich and comforting.",positive
+"Homeless person sleeping in entrance alcove.",negative
+"Wonderful local artist gallery rotations.",positive
+"Server dropped food then tried to serve it anyway.",negative
+"The flan had perfect caramel topping.",positive
+"Lighting so dim we couldn't read menu.",negative
+"Great trivia night brings community together.",positive
+"They charged premium for tap water.",negative
+"The osso buco was fall-off-the-bone tender.",positive
+"Drunk patrons allowed to harass other diners.",negative
+"Perfect execution of molecular gastronomy.",positive
+"Server's personal drama discussed at our table.",negative
+"The tiramisu was authentic Italian recipe.",positive
+"Broken glass swept under rug instead of cleaned.",negative
+"Wonderful chef meet-and-greet events.",positive
+"They refused refund for inedible food.",negative
+"The bouillabaisse was loaded with fresh seafood.",positive
+"Server had extremely poor hygiene.",negative
+"Great energy and vibe on weekend nights.",positive
+"Ceiling leak dripping into dining area.",negative
+"The eggs benedict had perfect hollandaise.",positive
+"Management was hostile when we complained.",negative
+"Wonderful support of local musicians.",positive
+"They tried to charge us for broken glass we didn't break.",negative
+"The rack of lamb was cooked to perfection.",positive
+"Floor drain backed up with sewage.",negative
